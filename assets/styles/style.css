@@ -1,0 +1,21 @@
+#main-title {
+    border: solid 2px rgb(5, 76, 217);
+}
+  
+.title {
+    color: blue;
+    padding-left: 10px;
+    border: solid 1px red;
+}
+
+.uniq_btn {
+    background-color: aquamarine;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+    transition: all 400ms ease ;
+}
+
+.uniq_btn:hover {
+    transform: scale(0.9);
+}
